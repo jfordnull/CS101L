@@ -1,0 +1,193 @@
+2000 Honda    Insight  53.000
+2000 Nissan    Altra EV  85.000
+2000 Toyota    RAV4 EV  72.000
+2001 Honda    Insight  53.000
+2001 Toyota    RAV4 EV  72.000
+2001 Ford    Th!nk  65.000
+2001 Nissan    Hyper-Mini  75.000
+2002 Honda    Insight  53.000
+2002 Toyota    RAV4 EV  78.000
+2003 Honda    Insight  53.000
+2003 Toyota    RAV4 EV  78.000
+2004 Honda    Insight  52.000
+2005 Honda    Insight  52.000
+2006 Honda    Insight  52.000
+2010 Toyota    Prius  50.000
+2001 Ford    Ranger Pickup 2WD  58.000
+2000 Ford    Ranger Pickup 2WD  58.000
+2000 Ford    Ranger Pickup 2WD  56.000
+1999 GMC    EV1  85.000
+1999 Ford    Ranger Pickup 2WD  58.000
+1998 Chevrolet    S10 Electric  55.000
+2008 MINI    MiniE  98.000
+2011 Nissan    Leaf  99.000
+2011 smart    fortwo electric drive cabriolet  87.000
+2011 smart    fortwo electric drive coupe  87.000
+2012 Mitsubishi    i-MiEV  112.000
+2012 Azure Dynamics    Transit Connect Electric Van  62.000
+2012 Azure Dynamics    Transit Connect Electric Wagon  62.000
+2012 Nissan    Leaf  99.000
+2012 Toyota    Prius c  50.000
+2011 BMW    Active E  102.000
+2012 CODA Automotive    CODA  73.000
+2012 Ford    Focus Electric  105.000
+2012 Toyota    Prius Plug-in Hybrid  50.000
+2012 Tesla    Model S  89.000
+2013 Ford    Focus Electric  105.000
+2013 Honda    Fit EV  118.000
+2013 smart    fortwo electric drive convertible  107.000
+2013 smart    fortwo electric drive coupe  107.000
+2013 Scion    iQ EV  121.000
+2012 Toyota    RAV4 EV  76.000
+2013 Toyota    Prius c  50.000
+2013 Toyota    Prius Plug-in Hybrid  50.000
+2013 CODA Automotive    CODA  73.000
+2013 Mitsubishi    i-MiEV  112.000
+2013 Tesla    Model S (60 kW-hr battery pack)  95.000
+2013 Tesla    Model S (85 kW-hr battery pack)  89.000
+2012 BYD    e6  62.000
+2013 Fiat    500e  116.000
+2013 Toyota    RAV4 EV  76.000
+2013 Nissan    Leaf  115.000
+2013 Tesla    Model S (40 kW-hr battery pack)  94.000
+2014 Chevrolet    Spark EV  119.000
+2014 Honda    Fit EV  118.000
+2014 Ford    Focus Electric  105.000
+2014 Fiat    500e  116.000
+2014 smart    fortwo electric drive convertible  107.000
+2014 smart    fortwo electric drive coupe  107.000
+2014 Toyota    RAV4 EV  76.000
+2014 Toyota    Prius Plug-in Hybrid  50.000
+2014 Toyota    Prius c  50.000
+2014 Nissan    Leaf  114.000
+2014 Tesla    Model S (85 kW-hr battery pack)  89.000
+2014 Tesla    Model S (60 kW-hr battery pack)  95.000
+2014 BYD    e6  63.000
+2013 BYD    e6  63.000
+2014 Mitsubishi    i-MiEV  112.000
+2015 Nissan    Leaf  114.000
+2015 Chevrolet    Spark EV  119.000
+2015 Fiat    500e  116.000
+2014 BMW    i3 BEV  124.000
+2014 Mercedes-Benz    B-Class Electric Drive  84.000
+2015 Toyota    Prius Plug-in Hybrid  50.000
+2015 Kia    Soul Electric  105.000
+2015 Toyota    Prius c  50.000
+2015 Volkswagen    e-Golf  116.000
+2015 smart    fortwo electric drive convertible  107.000
+2015 smart    fortwo electric drive coupe  107.000
+2015 Mercedes-Benz    B-Class Electric Drive  84.000
+2015 Ford    Focus Electric  105.000
+2015 Tesla    Model S (85 kW-hr battery pack)  89.000
+2014 Tesla    Model S AWD (85 kW-hr battery pack)  89.000
+2015 Tesla    Model S AWD - P85D  93.000
+2015 Tesla    Model S AWD - 85D  100.000
+2015 BMW    i3 BEV  124.000
+2015 Tesla    Model S (60 kW-hr battery pack)  95.000
+2016 Mitsubishi    i-MiEV  112.000
+2015 Tesla    Model S AWD - 70D  101.000
+2016 Kia    Soul Electric  105.000
+2015 Tesla    Model S AWD - 90D  100.000
+2015 Tesla    Model S AWD - P90D  93.000
+2016 Volkswagen    e-Golf  116.000
+2016 smart    fortwo electric drive convertible  107.000
+2016 smart    fortwo electric drive coupe  107.000
+2016 Ford    Focus Electric  105.000
+2016 Tesla    Model X AWD - 90D  92.000
+2016 Tesla    Model X AWD - P90D  89.000
+2016 Chevrolet    Spark EV  119.000
+2016 Mercedes-Benz    B250e  84.000
+2016 Nissan    Leaf (24 kW-hr battery pack)  114.000
+2016 Nissan    Leaf (30 kW-hr battery pack)  112.000
+2016 Toyota    Prius c  50.000
+2016 Fiat    500e  112.000
+2016 Toyota    Prius  52.000
+2016 Toyota    Prius Eco  56.000
+2016 BMW    i3 BEV  124.000
+2016 Tesla    Model S (70 kW-hr battery pack)  89.000
+2016 Tesla    Model S (85 kW-hr battery pack)  89.000
+2016 Tesla    Model S (90 kW-hr battery pack)  89.000
+2015 Tesla    Model S (90 kW-hr battery pack)  89.000
+2016 Tesla    Model S AWD - 70D  101.000
+2016 Tesla    Model S AWD - 85D  100.000
+2016 Tesla    Model S AWD - 90D  103.000
+2016 Tesla    Model S AWD - P85D  93.000
+2016 Tesla    Model S AWD - P90D  95.000
+2017 Mitsubishi    i-MiEV  112.000
+2016 Tesla    Model S (75 kW-hr battery pack)  98.000
+2016 Tesla    Model S AWD - 75D  103.000
+2016 Tesla    Model X AWD - 75D  93.000
+2017 Fiat    500e  112.000
+2016 BYD    e6  72.000
+2017 BMW    i3 BEV (60  Amp-hour battery)  124.000
+2017 BMW    i3 BEV (94 Amp-hour battery)  118.000
+2017 Mercedes-Benz    B250e  84.000
+2017 Toyota    Prius  52.000
+2017 Toyota    Prius Eco  56.000
+2017 Kia    Soul Electric  105.000
+2016 Tesla    Model S (60 kW-hr battery pack)  99.000
+2016 Tesla    Model S AWD - 60D  104.000
+2016 Tesla    Model S AWD - P100D  98.000
+2016 Tesla    Model X AWD - 60D  93.000
+2017 Chevrolet    Bolt EV  119.000
+2017 Nissan    Leaf  112.000
+2017 Hyundai    Ioniq Electric  136.000
+2017 Hyundai    Ioniq  55.000
+2017 Hyundai    Ioniq Blue  58.000
+2017 Kia    Niro FE  50.000
+2016 Tesla    Model X AWD - P100D  86.000
+2017 Ford    Focus Electric  107.000
+2017 Tesla    Model S AWD - 60D  104.000
+2017 Tesla    Model S AWD - 75D  103.000
+2017 Tesla    Model S AWD - P100D  98.000
+2017 Tesla    Model X AWD - 60D  93.000
+2017 Tesla    Model X AWD - 75D  93.000
+2017 Tesla    Model X AWD - 90D  92.000
+2017 Tesla    Model X AWD - P90D  89.000
+2017 Tesla    Model X AWD - P100D  86.000
+2017 Toyota    Prius Prime  54.000
+2017 Tesla    Model S AWD - P90D  95.000
+2017 Volkswagen    e-Golf  119.000
+2017 Tesla    Model S (60 kW-hr battery pack)  99.000
+2017 Tesla    Model S (75 kW-hr battery pack)  98.000
+2017 Tesla    Model S AWD - 90D  104.000
+2017 BYD    e6  72.000
+2017 Tesla    Model S AWD - 100D  102.000
+2018 Toyota    Camry Hybrid LE  52.000
+2017 Honda    Clarity EV  114.000
+2017 smart    fortwo electric drive coupe  108.000
+2018 Kia    Soul Electric  108.000
+2017 smart    fortwo electric drive convertible  102.000
+2018 Hyundai    Ioniq Blue  58.000
+2018 Hyundai    Ioniq  55.000
+2018 Kia    Niro FE  50.000
+2018 Ford    Focus Electric  107.000
+2018 Hyundai    Ioniq Electric  136.000
+2018 Toyota    Prius  52.000
+2018 Toyota    Prius Eco  56.000
+2018 Hyundai    Ioniq Plug-in Hybrid  52.000
+2017 Tesla    Model 3 Long Range  126.000
+2018 smart    fortwo electric drive coupe  108.000
+2018 smart    fortwo electric drive convertible  102.000
+2018 Chevrolet    Bolt EV  119.000
+2017 Tesla    Model X AWD - 100D  87.000
+2018 Tesla    Model 3 Long Range  130.000
+2018 Tesla    Model S 75kWh  98.000
+2018 Tesla    Model S 75D  103.000
+2018 Tesla    Model S 100D  102.000
+2018 Tesla    Model S P100D  98.000
+2018 Tesla    Model X 75D  93.000
+2018 Tesla    Model X 100D  87.000
+2018 Tesla    Model X P100D  85.000
+2018 BMW    i3 (94Ah)  118.000
+2018 BMW    i3s (94Ah)  112.000
+2018 Nissan    Leaf  112.000
+2018 Volkswagen    e-Golf  119.000
+2018 BYD    e6  72.000
+2018 Toyota    Prius Prime  54.000
+2018 Fiat    500e  112.000
+2018 Honda    Clarity EV  114.000
+2019 Honda    Insight  52.000
+2019 Hyundai    Ioniq Electric  136.000
+2018 Tesla    Model 3 Long Range  AWD  116.000
+2018 Tesla    Model 3 Long Range  AWD Performance  116.000
